@@ -13,11 +13,8 @@ const Footer = () => {
         Made with <img src={heartIcon} alt='heart'></img> by Suresh
       </p>{' '}
       <div className='icons'>
-        <a href='https://github.com/suresh213/' className='githubIcon'>
+        <a href='https://frangky.me' className='githubIcon'>
           <GitHubIcon />
-        </a>
-        <a href='https://www.linkedin.com/in/suresh-a/' className='linkIcon'>
-          <LinkedInIcon />
         </a>
       </div>
     </div>
