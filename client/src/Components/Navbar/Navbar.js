@@ -15,7 +15,7 @@ const Navbar = () => {
         <StarIcon className='rotate' />
         <div className='repo-text'>
           <p className='github-name'>Github</p>
-          <p className='repo-name'>Give repo a star</p>
+          <p className='repo-name'>Follow</p>
         </div>
       </a>
     </div>
